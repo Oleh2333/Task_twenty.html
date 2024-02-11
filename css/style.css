@@ -12,7 +12,7 @@
 }
 
 .p{
-    color: brown;
+    color: white;
 }
 
 .color{
@@ -26,6 +26,18 @@
 }
 
 .right{
-    color:darkgray;
+    color:silver;
 }
 
+.center-content {
+    text-align: center;
+}
+.narrow-image {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+.narrow-text {
+    width: 50%;
+    margin: 0 auto;
+}
